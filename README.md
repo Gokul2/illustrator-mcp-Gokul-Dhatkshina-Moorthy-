@@ -46,7 +46,7 @@ Inspired by [spencerhhubert/illustrator-mcp-server](https://github.com/spencerhh
 ### With uv (recommended)
 
 ```bash
-git clone <this-repo> illustrator-ai-mcp
+git clone https://github.com/Gokul2/illustrator-mcp-Gokul-Dhatkshina-Moorthy-.git illustrator-ai-mcp
 cd illustrator-ai-mcp
 uv sync
 ```
@@ -54,7 +54,7 @@ uv sync
 ### With plain pip
 
 ```bash
-git clone <this-repo> illustrator-ai-mcp
+git clone https://github.com/Gokul2/illustrator-mcp-Gokul-Dhatkshina-Moorthy-.git illustrator-ai-mcp
 cd illustrator-ai-mcp
 python3 -m venv .venv
 source .venv/bin/activate
